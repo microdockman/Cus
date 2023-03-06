@@ -1,4 +1,5 @@
 ###  ROM
+* [WIKI](https://wiki.lineageos.org/devices/chiron/install "悬停显示")  
 * [ROM:recovery.img+boot.img+lineage.zip](https://download.lineageos.org/devices/chiron/builds "悬停显示")  
 * [Mi_Unlock](https://en.miui.com/unlock/download_en.html "悬停显示")  
 * [MindTheGapps](https://androidfilehost.com/?w=files&flid=322935 "悬停显示")  
