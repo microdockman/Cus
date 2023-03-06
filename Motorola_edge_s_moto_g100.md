@@ -33,5 +33,5 @@ adb sideload MindTheGapps.zip
 
 2. Magisk --> Magisk_boot.img  
 
-3. ** reboot --> bootloader 
+3. ** reboot --> bootloader  
 fastboot flash boot C:\Users\xxx\SOFT\ROM\G100\Magisk_boot.img  
