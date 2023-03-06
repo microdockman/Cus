@@ -1,4 +1,5 @@
 ###  ROM
+* [WIKI](https://wiki.lineageos.org/devices/nio/install "悬停显示")  
 * [ROM:dtbo.img+vendor_boot.img+boot.img+lineage.zip](https://download.lineageos.org/devices/nio/builds "悬停显示")  
 * [copy-partitions-20220613-signed.zip](https://mirrorbits.lineageos.org/tools/copy-partitions-20220613-signed.zip "悬停显示")  
 * [MindTheGapps](https://androidfilehost.com/?w=files&flid=322935 "悬停显示")  
